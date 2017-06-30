@@ -23,7 +23,6 @@ user_pref("browser.sessionhistory.max_entries", 25);
 user_pref("browser.sessionhistory.max_total_viewers", 2);
 user_pref("browser.tabs.animate", false);
 user_pref("browser.tabs.closeWindowWithLastTab", false);
-user_pref("browser.tabs.closeWindowWithLastTab", true);
 user_pref("browser.tabs.loadBookmarksInBackground", true);
 user_pref("browser.tabs.loadDivertedInBackground", true);
 user_pref("browser.tabs.opentabfor.middleclick", true);
