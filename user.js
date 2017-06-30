@@ -1,6 +1,6 @@
 user_pref("accessibility.force_disabled", "1");
 user_pref("browser.blink_allowed", false);
-user_pref("browser.bookmarks.max_backups", 3");
+user_pref("browser.bookmarks.max_backups", 3);
 user_pref("browser.cache.disk_cache_ssl", false);
 user_pref("browser.cache.frecency_experiment", 3);
 user_pref("browser.cache.offline.enable", false);
