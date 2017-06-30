@@ -51,6 +51,7 @@ user_pref("devtools.screenshot.audio.enabled", false);
 user_pref("devtools.styleeditor.enabled", false);
 user_pref("devtools.toolbar.enabled", false);
 user_pref("devtools.webide.enabled", false);
+user_pref("dom.ipc.processCount", "-1");
 user_pref("dom.telephony.enabled", false);
 user_pref("experiments.activeExperiment", false);
 user_pref("experiments.enabled", false);
